@@ -28,7 +28,7 @@ It also keeps track of how many times each common word occurs between sentence p
    cd sentence-similarity
    ```
    
-2. Add your text files (e.g., file1.txt, file2.txt).
+2. Add your own 5 sentences(if you want, not mandatory haha).
 
 3. Run the script:
   ```bash
